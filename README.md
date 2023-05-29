@@ -28,8 +28,8 @@ Languages: English, French, Russian
 
 ### Stats
 ![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharoika&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sharoika&theme=blueberry_duo)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sharoika&theme=blueberry_duo)]() 
 
 
 ### Visit Count
-[![](https://visitcount.itsvg.in/api?id=sharoika&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sharoika&label=Profile%20Views&color=0&icon=5&pretty=true)]()

@@ -21,7 +21,9 @@ Languages: English, French, Russian
 
 
 **Skills:**
-* Tools: React Native, React, WordPress, Raspberry Pi, Power Bi, 
+* Communication: Asana, Slack
+* DevOps: GitHub, Azure, Visual Studio, Xcode, Android Studio
+* Tools: React Native, React, WordPress, Raspberry Pi, Power Bi
 * Languages: Java, C++, Python, Typescript, Javascript, HTML, CSS, PHP
 * Data storage: MongoDB, SQL, Redis
 

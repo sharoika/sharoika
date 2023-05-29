@@ -1,16 +1,27 @@
-### Hello, Bonjour, привет! [![GitHub followers](https://img.shields.io/github/followers/sharoika.svg?style=social&label=Follow)](https://github.com/sharoika?tab=followers)
+### Hello, Bonjour, привет! My name is Maksim 
+[![GitHub followers](https://img.shields.io/github/followers/sharoika.svg?style=social&label=Follow)](https://github.com/sharoika?tab=followers)
 
-<!--
-**sharoika/sharoika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+I am a Software Systems Engineering (SSE) Student at the Universtiy of Regina interested in various aspects of tech such as AI, Mobile Development, Security, Infrastructure, and Testing.
 
-Here are some ideas to get you started:
+I want to continue learning full-stack development seeing the front-end and back-end come together is interesting to me; most of my work I have been a back-end software developer and data engineer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Projects:**
+* Stock Anaylysis Using ML (ENSE 489)
+* Various Software Testing Methodoligies (ENSE 375) 
+
+**Current Employment**
+* .Net and C#
+* React Native
+
+**Skills:**
+* Tools: React Native, React, WordPress, Raspberry Pi, Power Bi, 
+* Languages: Java, C++, Python, Typescript, Javascript, HTML, CSS, PHP
+* Data storage: MongoDB, SQL, Redis
+
+### Stats
+![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharoika&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sharoika&theme=blueberry_duo)](https://git.io/streak-stats) 
+
+### Visit Count
+[![](https://visitcount.itsvg.in/api?id=sharoika&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)

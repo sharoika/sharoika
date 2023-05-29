@@ -1,4 +1,4 @@
-### Hello, Bonjour, привет! [![GitHub followers](https://img.shields.io/github/followers/sharoika.svg?style=social&label=Follow)](https://github.com/Sha?tab=followers)
+### Hello, Bonjour, привет! [![GitHub followers](https://img.shields.io/github/followers/sharoika.svg?style=social&label=Follow)](https://github.com/sharoika?tab=followers)
 
 <!--
 **sharoika/sharoika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

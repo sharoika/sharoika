@@ -4,16 +4,15 @@
 Practice Stats: [LeetCode](https://leetcode.com/maximsharoika/)
 
 ### Introduction
-I am a Software Systems Engineering (SSE) Student at the Universtiy of Regina interested in various aspects of tech such as AI, Mobile Development, Security, Infrastructure, and Testing.
+I am a Software Systems Engineering (SSE) Student at the University of Regina interested in various tech aspects such as AI, Mobile Development, Security, Infrastructure, and Testing.
 
-I want to continue learning full-stack development seeing the front-end and back-end come together is interesting to me; most of my work I have been a back-end software developer and data engineer. 
+I want to continue learning full-stack development seeing the front-end and back-end come together is interesting to me; for most of my work I have been a back-end software developer and data engineer. 
 
 Languages: English, French, Russian
 
 
 **Current Projects:**
-* Stock Anaylysis Using ML (ENSE 489)
-* Various Software Testing Methodoligies (ENSE 375) 
+* EngiConnect
 
 
 **Current Employment**

@@ -12,18 +12,12 @@ Languages: English, French, Russian
 
 
 **Current Projects:**
-* EngiConnect
-
-
-**Current Employment**
-* .Net and C#
-* React Native
-
+* Fleet (Capstone)
 
 **Skills:**
 * Communication: Asana, Slack
 * DevOps: GitHub, Azure, Visual Studio, Xcode, Android Studio
-* Tools: React Native, React, DotNet
+* Tools: React Native, React, DotNet, Angular
 * Languages: Java, C++, Python, Typescript, Javascript, HTML, CSS, PHP
 * Data storage: MongoDB, SQL, Redis
 

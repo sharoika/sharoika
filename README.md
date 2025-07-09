@@ -4,15 +4,11 @@
 Practice Stats: [LeetCode](https://leetcode.com/maximsharoika/)
 
 ### Introduction
-I am a Software Systems Engineering (SSE) Student at the University of Regina interested in various tech aspects such as AI, Mobile Development, Security, Infrastructure, and Testing.
+I am a Software Systems Engineering Graduate from the University of Regina interested in various tech aspects such as AI, Mobile Development, Security, Infrastructure, and Testing.
 
-I want to continue learning full-stack development seeing the front-end and back-end come together is interesting to me; for most of my work I have been a back-end software developer and data engineer. 
+Currently I am employeed at Farm Credit Canada as a Software Developer. 
 
 Languages: English, French, Russian
-
-
-**Current Projects:**
-* Fleet (Capstone)
 
 **Skills:**
 * Communication: Asana, Slack

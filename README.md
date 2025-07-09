@@ -4,7 +4,7 @@
 Practice Stats: [LeetCode](https://leetcode.com/maximsharoika/)
 
 ### Introduction
-I am a Software Systems Engineering Graduate from the University of Regina interested in various tech aspects such as AI, Mobile Development, Security, Infrastructure, and Testing.
+I am a Software Systems Engineering Graduate from the University of Regina interested in various tech aspects such as AI, Mobile Development, Web Development, Security, Infrastructure, and Testing.
 
 Currently I am employeed at Farm Credit Canada as a Software Developer. 
 

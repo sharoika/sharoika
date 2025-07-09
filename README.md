@@ -11,9 +11,9 @@ Currently I am employeed at Farm Credit Canada as a Software Developer.
 Languages: English, French, Russian
 
 **Skills:**
-* Communication: Asana, Slack
+* Communication: Asana, Slack, Jira
 * DevOps: GitHub, Azure, Visual Studio, Xcode, Android Studio
-* Tools: React Native, React, DotNet, Angular
+* Tools: React Native, React, DotNet, Angular, Spring,
 * Languages: Java, C++, Python, Typescript, Javascript, HTML, CSS, PHP
 * Data storage: MongoDB, SQL, Redis
 

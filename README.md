@@ -1,8 +1,6 @@
 ### Hello, Bonjour, привет! My name is Maksim 
 [![GitHub followers](https://img.shields.io/github/followers/sharoika.svg?style=social&label=Follow)](https://github.com/sharoika?tab=followers)
 
-Practice Stats: [LeetCode](https://leetcode.com/maximsharoika/)
-
 ### Introduction
 I am a Software Systems Engineering Graduate from the University of Regina interested in various tech aspects such as AI, Mobile Development, Web Development, Security, Infrastructure, and Testing.
 

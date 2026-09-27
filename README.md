@@ -28,8 +28,9 @@ Languages: English, French, Russian
 
 
 ### Stats
-![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharoika&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sharoika&theme=blueberry_duo)]() 
+![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharoika&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sharoika&theme=blueberry_duo)](https://github.com/sharoika)
 
 
 ### Visit Count

@@ -16,7 +16,7 @@ Languages: English, French, Russian
 
 #### Full-stack Applications
 1. **[Time Registry](https://time-registry.com)** — An interactive platform where people can claim specific dates in history and create a permanent registry of dates from 1900–2100.
-2. **[StartupMap.ca](https://startupmap.ca)** — An interactive map and directory of Canadian startups showing where companies were founded and allowing founders to add their own startups.
+2. **[Canada Startup Map](https://startupmap.ca)** — An interactive map and directory of Canadian startups showing where companies were founded and allowing founders to add their own startups.
 
 #### Portfolios
 1. **[Maksim Sharoika](https://maksim.sharoika.ca)** — My personal portfolio showcasing my software engineering work, projects, experience, and achievements.

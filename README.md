@@ -25,13 +25,3 @@ Languages: English, French, Russian
 * Tools: React Native, React, DotNet, Angular, Spring, Jenkins, Ansible, Nexus, AWS, DigitalOcean
 * Languages: Java, C++, Python, Typescript, Javascript, HTML, CSS, PHP
 * Data storage: MongoDB, SQL, Redis
-
-
-### Stats
-![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharoika&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sharoika&theme=blueberry_duo)](https://github.com/sharoika)
-
-
-### Visit Count
-[![](https://visitcount.itsvg.in/api?id=sharoika&label=Profile%20Views&color=0&icon=5&pretty=true)]()

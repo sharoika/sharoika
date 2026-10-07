@@ -26,6 +26,7 @@ Languages: English, French, Russian
 1. **[Pay Time](https://sharoika.ca/paytime.html)** — An interactive tool that calculates how much you earn in real time based on your hourly wage or annual salary.
 2. **[Standup Order Wheel](https://sharoika.ca/wheel.html)** — A simple interactive wheel for randomly determining the order of people for standups, presentations, or other group activities.
 3. **[Personal Finance](http://finance.sharoika.ca/)** — A personal finance site covering my thoughts and opinions on investing, money, taxes, and financial topics. *All content represents my personal opinions and is not financial advice.*
+4. **[Pub Golf Canada](http://pub-golf.ca/)** — The official website for Pub Golf, a recurring social competition documenting events across Canada. The site features the rules, event details, team and individual awards, historical scores and statistics, and a gallery from past events.
 
 **Skills:**
 * Communication: Asana, Slack, Jira

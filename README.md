@@ -11,22 +11,23 @@ Languages: English, French, Russian
 ### Stuff That's Live Now 🚀
 
 #### Businesses
-1. **[Sharoika Tutoring](https://sharoika.ca)** — My tutoring company with 20+ tutors, providing private tutoring and academic coaching from elementary through university level.
-2. **[Kosichi Solutions](https://kosichi.ca)** — My software and technology consulting company, building custom software, websites, AI solutions, infrastructure, and other technology solutions.
+1. **[Sharoika Tutoring](https://sharoika.ca)** — Tutoring and academic coaching with 20+ tutors, serving students from elementary through university.
+2. **[Kosichi Solutions](https://kosichi.ca)** — Technology consulting specializing in custom software, websites, AI solutions, and infrastructure.
+3. **[TravelTailored](https://traveltailored.ca)** — A personalized travel planning company based in Regina, Saskatchewan, serving travellers across Canada and the United States.
 
 #### Full-stack Applications
-1. **[Time Registry](https://time-registry.com)** — An interactive platform where people can claim specific dates in history and create a permanent registry of dates from 1900–2100.
-2. **[Canada Startup Map](https://startupmap.ca)** — An interactive map and directory of Canadian startups showing where companies were founded and allowing founders to add their own startups.
+1. **[Time Registry](https://time-registry.com)** — An interactive platform for claiming historical dates and creating a permanent registry spanning 1900–2100.
+2. **[Canada Startup Map](https://startupmap.ca)** — An interactive map and directory of Canadian startups, featuring company locations and founder submissions.
 
 #### Portfolios
-1. **[Maksim Sharoika](https://maksim.sharoika.ca)** — My personal portfolio showcasing my software engineering work, projects, experience, and achievements.
-2. **[Daniel Sharoika](https://daniel.sharoika.ca)** — A custom basketball player profile and recruiting website showcasing player information, academics, statistics, and achievements.
+1. **[Maksim Sharoika](https://maksim.sharoika.ca)** — Personal portfolio showcasing software engineering projects, experience, and achievements.
+2. **[Daniel Sharoika](https://daniel.sharoika.ca)** — Custom basketball recruiting website showcasing player information, academics, statistics, and achievements.
 
 #### Quick Fun Projects
-1. **[Pay Time](https://sharoika.ca/paytime.html)** — An interactive tool that calculates how much you earn in real time based on your hourly wage or annual salary.
-2. **[Standup Order Wheel](https://sharoika.ca/wheel.html)** — A simple interactive wheel for randomly determining the order of people for standups, presentations, or other group activities.
-3. **[Personal Finance](http://finance.sharoika.ca/)** — A personal finance site covering my thoughts and opinions on investing, money, taxes, and financial topics. *All content represents my personal opinions and is not financial advice.*
-4. **[Pub Golf Canada](http://pub-golf.ca/)** — The official website for Pub Golf, a recurring social competition documenting events across Canada. The site features the rules, event details, team and individual awards, historical scores and statistics, and a gallery from past events.
+1. **[Pay Time](https://sharoika.ca/paytime.html)** — Interactive real-time earnings calculator based on hourly wages or annual salary.
+2. **[Standup Order Wheel](https://sharoika.ca/wheel.html)** — Randomized wheel for determining the order of people in meetings, presentations, and group activities.
+3. **[Personal Finance](http://finance.sharoika.ca/)** — Personal thoughts and opinions on investing, money, taxes, and financial topics. *All content represents personal opinions and is not financial advice.*
+4. **[Pub Golf Canada](http://pub-golf.ca/)** — Official website for a recurring social competition, featuring rules, events, awards, historical scores, statistics, and photo galleries.
 
 **Skills:**
 * Communication: Asana, Slack, Jira

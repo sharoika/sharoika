@@ -13,11 +13,12 @@ Languages: English, French, Russian
 #### Businesses
 1. **[Sharoika Tutoring](https://sharoika.ca)** — Tutoring and academic coaching with 20+ tutors, serving students from elementary through university.
 2. **[Kosichi Solutions](https://kosichi.ca)** — Technology consulting specializing in custom software, websites, AI solutions, and infrastructure.
-3. **[TravelTailored](https://traveltailored.ca)** — A personalized travel planning company based in Regina, Saskatchewan, serving travellers across Canada and the United States.
 
 #### Full-stack Applications
 1. **[Time Registry](https://time-registry.com)** — An interactive platform for claiming historical dates and creating a permanent registry spanning 1900–2100.
 2. **[Canada Startup Map](https://startupmap.ca)** — An interactive map and directory of Canadian startups, featuring company locations and founder submissions.
+3. **[TravelTailored](https://traveltailored.ca)** — A personalized travel planning company based in Regina, Saskatchewan, serving travellers across Canada and the United States.
+
 
 #### Portfolios
 1. **[Maksim Sharoika](https://maksim.sharoika.ca)** — Personal portfolio showcasing software engineering projects, experience, and achievements.
